@@ -19,7 +19,7 @@ The repository includes implementations of the following machine learning algori
 7. Support Vector Machines (SVM) #Comming soon
 8. Naive Bayes
 9. Principal Component Analysis (PCA) #Comming soon
-10. Neural Networks (Multilayer Perceptron) #Comming soon
+10. Neural Networks #Comming soon
 
 Each algorithm is implemented in Python, accompanied by detailed explanations and comments to aid comprehension and learning.
 

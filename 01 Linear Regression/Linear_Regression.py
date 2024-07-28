@@ -23,8 +23,6 @@ class LinearRegression():
         return np.dot(X, self.weights) + self.bias
     
 
-
-
 if __name__ == "__main__":
     from sklearn.datasets import make_regression
     from sklearn.model_selection import train_test_split

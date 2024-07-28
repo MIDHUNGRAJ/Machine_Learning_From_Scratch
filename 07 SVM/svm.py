@@ -96,3 +96,4 @@ def plot_svm_decision_boundary(model, X, y):
     plt.show()
 
 plot_svm_decision_boundary(model, X, y)
+
